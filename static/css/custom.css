@@ -1,0 +1,15 @@
+.navbar-nav.navbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+
+.navbar-nav.navbar-center img {
+  height: 50px;
+  width: auto;
+  margin-bottom: 10px;
+}
+
+#myCarousel {
+  margin: 20px;
+}
