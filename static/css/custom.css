@@ -27,3 +27,6 @@
 .thumbnail{
   margin:auto;
 }
+div.col-sm-16{
+  padding-bottom: 7px;
+}
