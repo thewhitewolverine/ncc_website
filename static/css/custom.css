@@ -14,11 +14,15 @@
   margin: 20px;
 }
 .class1{
-	padding:50px;
-	
+padding-top: 50px;	
+
+margin: 0 auto;
+display: block;
+vertical-align: middle;
+
 }
 .box1{
-	border: 1px solid black;
+	
 	background: #e3e3e3;
 	margin: auto;
 	text-align: center;
@@ -33,4 +37,9 @@ div.col-sm-16{
 div.col-sm-4
 {
   padding-bottom: 7px;
+}
+div.thumbnail{
+  margin-left: 0px;
+  padding-left: 0px;
+  margin: auto;
 }
