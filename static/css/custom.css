@@ -14,7 +14,10 @@
   margin: 20px;
 }
 .class1{
-padding-top: 50px;	
+padding-top: 50px;
+padding-bottom: 0px;
+padding-left: 0px;
+padding-right: 0px;
 
 margin: 0 auto;
 display: block;
